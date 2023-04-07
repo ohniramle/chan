@@ -1,0 +1,90 @@
+body{
+    background-image: url(p.jpg); 
+     font-size:10pt;
+     background-color: transparent ;
+     margin:0 4px;
+     font-family:Arial, Helvetica, sans-serif;
+     padding-left: 4px;
+     padding-right: 8px;
+     color: #000000;  
+}
+
+.h2{
+    font-family: cursive;
+}
+.family{
+    width: 30px;
+    color: blue;
+}
+
+.serif{
+    font-family: cursive;
+}
+
+.grandona{
+    text-align: center;
+    top:0px;
+}
+.grandinha{
+    font-size: 95%;
+    margin-top: 1px;
+    box-shadow: 0 2px 2px #f36781;
+    border-bottom: 1px solid #590954;
+    border-color: #590954;
+    color: #590954;
+     background-color: #fdafcd !important;
+}
+header{
+    text-align: center;
+    margin-top: 15px;
+}
+.worm{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 300px;
+    margin-top: -40px;
+}
+
+div.ban{
+    width: 80%;
+    border: 1px solid #000000;
+    background-color: #f677a5;
+    color:#450000;
+    margin: 10px auto;
+}
+div.ban h2{
+    background-color: #f797af;
+    border: 1px solid #d2596e;
+    color:#ffffffdb;
+    margin-top: 0;
+}
+fieldset{
+     border: 0;
+     display: block;
+     margin-inline-start: 1px;
+     margin-inline-end: 1px;
+     padding-block-start: 0.35em;
+     padding-inline-start: 0.75em;
+     padding-inline-end: 0.75em;
+     padding-block-end: 0.625em;
+     min-inline-size: min-content;
+}
+div.ban ul{
+    float:left;
+    columns: 1;
+}
+ul{
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.regras{
+    margin: 20px 0 -10px 0;
+    text-align: center;
+
+   
+}
